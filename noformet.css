@@ -1,3 +1,10 @@
+.galva {
+    padding: 30px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 30px;
+  }
 body{
-    background-color: aquamarine;
+    background: blue;
 }
